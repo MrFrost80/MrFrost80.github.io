@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘L’eliminacoda (di letttura) - Parte I’
+title: ‘L’eliminacoda (di letttura) - Prima Parte’
 date: ‘2020-06-15 19:08’
 —--
 
