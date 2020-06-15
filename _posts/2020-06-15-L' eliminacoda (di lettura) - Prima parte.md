@@ -46,6 +46,4 @@ Fatevi del bene e iscrivetevi alla newsletter di Inutile, [NRS](https://nrs.subs
 
 - [Un’intera pagina](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2) dedicata a come costruire aeroplani i di carta. PErchè dopo tutto questo leggere, occorre sgranchirsi un po’ le gambe (e le mani).
 
----
-
-- 
+Stay Tuned, Mr.Frost
