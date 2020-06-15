@@ -1,8 +1,8 @@
-—-
+---
 layout: post
 title: ‘L’eliminacoda (di letttura) - Parte I’
 date: ‘2020-06-15 19:08’
-—-
+—--
 
 Ritorna, complice il trasloco (ancora in corso, non v’illudete di essere al sicuro) una rubrica amatissima da chi suole sorbirsi i miei deliri (gente strana che popola questo mondo...), poichè riduce al minimo i suddetti, lasciando spazio ad un bel po’ di link succosi con cui passare per intellettuali sotto l’ombrellone (devo scrivervi un tutorial su come inviare le pagine internet sul Kindle? Ok, prossimamente...).
 
