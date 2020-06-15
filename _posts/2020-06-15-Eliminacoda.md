@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘L’eliminacoda di letttura’
+title: ‘Eliminacoda’
 date: ‘2020-06-15 19:08’
 —--
 
