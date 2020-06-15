@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'La sottile arte del "te l'avevo detto"'
+date: '2020-06-08 18:00'
+---
+
 > I mean, I liked Spotify for what it was: a great music streaming service. But now, I am not too sure. Recently, whenever I experience Spotify, I come away thinking, “Man, it has really become like radio.” This is not meant as a compliment. 
 > 
 > Its imposition of algorithmic playlists is increasingly oppressive. As I wrote earlier, “It auto-plays the music it thinks I want just because I listened to one track. And it forces its choices down my throat.” It pushes talk radio (sorry, they call them podcasts now) and generally devotes most of its real estate and algorithms to the “top of the pops.”

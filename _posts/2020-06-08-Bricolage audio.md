@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'Bricolage audio'
+date: '2020-06-08 20:00'
+---
+
 Stavo seriamente valutando (**da mesi**...lo so, è una patologia, non infierite) l’inserimento di un paio di casse Symfonisk nella mia tana.
 
 AirPlay 2, audio Sonos, prezzo e disponibilità IKEA. A match made in heaven.
