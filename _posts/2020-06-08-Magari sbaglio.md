@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'Magari sbaglio'
+date: '2020-06-08 20:21'
+---
+
 > E poi la app è fatta bene. Lasciamo da parte l'infortunio grafico (e filosofico purtroppo) relativo al fatto che la donna è rappresentata con un bambino mentre l'uomo sta davanti al computer (uno stereotipo che verrà cambiato, giustamente). 
 
 [La battaglia su Immuni e come vincerla - la Repubblica](

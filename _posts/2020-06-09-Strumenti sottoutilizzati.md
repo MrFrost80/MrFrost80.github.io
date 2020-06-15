@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'Strumenti sottoutilizzati'
+date: '2020-06-09 16:29'
+---
+
 > It is a decadent device that is superfluous in almost every detail; an emblem of the pure excess that has turned our modern society’s beating heart into a putrid mess of rotting flesh. 
 > 
 > Yes, dear reader, the computer mouse is a scam.

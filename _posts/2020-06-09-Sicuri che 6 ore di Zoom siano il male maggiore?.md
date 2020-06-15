@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'Sicuri che 6 ore di Zoom siano il male maggiore?'
+date: '2020-06-09 15:21'
+---
+
 > The new boxes (...)  have two major objectives. First, they will be able to block everything the Kremlin finds illegal – to censor the Internet, essentially. That objective is to be carried out on a permanent basis, 24/7. Second, the boxes make it possible to cut off the Russian Internet from the outside world. 
 
 [[Andrei Soldatov]( https://www.raamoprusland.nl/auteurs/109 ) - Raamoprusland.nl]( https://www.raamoprusland.nl/dossiers/media/1202-bold-steps-on-internet-kremlin-s-capability-to-cut-off-russia )
