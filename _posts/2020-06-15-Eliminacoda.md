@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘Eliminacoda’
+title: 'Eliminacoda’
 date: ‘2020-06-15 19:08’
 ---
 
@@ -10,11 +10,7 @@ Andiamo quindi ad iniziare, in ordine rigorosamente sparso (sì, so fare anche g
 
 - In attesa che Prime Video renda disponibile la quarta stagione di Mr.Robot (Amazon? Sto aspettando...da troppo), godetevi [questo video]( https://www.youtube.com/watch?feature=share&v=SZQz9tkEHIg&app=desktop ) in cui un esperto di sicurezza informatica fa a pezzi le sequenze di hacking in film e serie celebri. Ok, non sono documentari, ma cavolo, un minimo di decenza :D Spoiler - ma non troppo - alert: alcuni insospettabili nella lista dei *realistici* o semi tali.
 
----
-
 -  Se pensate che le *mamme pancine* su Faccialibro siano il fondo del barile della genitorialità, sappiate che c’è [chi si preoccupa per le performance delle foto dei pargoli su Instagram]( https://medium.com/s/story/we-dont-judge-our-kids-by-the-likes-they-get-online-or-do-we-9f0f0cdd530b ). La parte peggiore è che potrebbe non avere cosi torto. 
-
----
 
 - Bilanciamo con un po’ di ottimismo (ma senza dimenticarci di ragionare): 
  
@@ -22,27 +18,17 @@ Andiamo quindi ad iniziare, in ordine rigorosamente sparso (sì, so fare anche g
 
 [Om Malik - Om.co](https://om.co/2020/02/20/facetime-with-techs-dual-reality/)
 
----
-
 -  Un video (migliore, a mio avviso, della sua pur ottima media) di Marques Brownlee su uno dei pezzi di hardware più **incredibilmente meravigliosi mai creati**> [il Game Boy]( https://youtu.be/Oy8zSYKkczI). Resta da dire, per onestà, che la recensione definitiva su Game Boy camera & Printer l’ha fatta[Yotobi](https://youtu.be/1gwfxJhy_x0).
-
----
 
 - [Un poster “alternativo”](https://studiokxx.com/Blade-Runner-FX)per uno dei migliori film di sempre. Personalmente,opterei per la versione in nero (se si decidesse a stamparlo). Se di quest’uomo riuscite a non farvi piacere nemmeno un lavoro, avete un problema.
 
----
-
 - **Tutto** il film della Marvel sui Fantastici 4. No, non quello brutto del 2005 e nemmeno quelli (2007 e 2015) successivi. Quello del 1994, [*così brutto che fa il giro e diventa quasi arte*](https://www.youtube.com/watch?v=eN0FoR_FlZg&feature=share&app=desktop).
-
----
 
 - Un bel punto di vista, in parte inedito (almeno per ciò che ho letto io in giro):
 
 > Ora che per tre o quattro mesi un sacco di gente ha lavorato in “telelavoro”, e ora che un sacco di aziende che fino all’altro giorno pensavano che il dipendente lontano dalla sede poltrisse e basta, ci sono fondamentalmente tre vie: un sacco di aziende ridimensioneranno gli spazi dedicati ai lavoratori, rinunciando a uffici grandi e limitandosi al minimo della pena; oppure non cambierà un cazzo, come al solito. Forse in Italia ci aspetta quest’ultima opzione, d’altro canto la nostra storia insegna così. Io, contrariamente a chi prevede la catastrofe immobiliare, sono più propenso a una via di mezzo, un ridimensionamento solo di una parte degli uffici, non di tutti. Il che rappresenta un problema non tanto, non solo, per chi quegli uffici li affitta e si vedrà privato di parte dei suoi introiti, ma soprattutto dell’indotto: i bar e i ristoranti che nelle pause pranzo venivano presi d’assalto, per dirne una. Non sarà una bella transizione, dovesse accadere.
 
 Fatevi del bene e iscrivetevi alla newsletter di Inutile, [NRS](https://nrs.substack.com). Rapida, agile e piena di spunti, vi rompono le balle solo una volta alla settimana e di domenica, quando potete leggerla prima della siesta.
-
----
 
 - [Un’intera pagina](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2) dedicata a come costruire aeroplani i di carta. PErchè dopo tutto questo leggere, occorre sgranchirsi un po’ le gambe (e le mani).
 
