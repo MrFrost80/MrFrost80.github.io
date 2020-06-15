@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Il ritorno dell'eliminacoda’
+title: 'Il ritorno dell'eliminacode'
 date: '2020-06-15 20:08’
 ---
 
