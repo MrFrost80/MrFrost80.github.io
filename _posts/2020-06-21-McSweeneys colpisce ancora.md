@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘McSweeney’s colpisce ancora’
+title: McSweeney’s colpisce ancora
 date: 2020-06-21 10:15
 ---
 
