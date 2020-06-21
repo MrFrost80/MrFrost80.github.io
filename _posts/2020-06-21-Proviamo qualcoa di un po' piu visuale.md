@@ -6,10 +6,8 @@ date: 2020-06-21 16:40
 
 Come da titolo, gli esperimenti proseguono con l’inserimento immagini.
 
-<figure>
-  <img src="https://mrfrost80.github.io/Marina_bw.jpeg" alt="È una foto carina, dacci un’occhiata..."/>
-  <figcaption>Sì, è roba mia.</figcaption>
-</figure>
+![Non male, eh?](/Marina_bw.jpeg)
+
 
 Ve l’avevo detto, di non sentirvi al sicuro.
 
