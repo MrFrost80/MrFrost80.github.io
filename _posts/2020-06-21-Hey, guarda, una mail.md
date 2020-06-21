@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey, guarda, una mail.
+title: Hey, guarda, una mail
 date: 2020-06-21 15:00
 ---
 
