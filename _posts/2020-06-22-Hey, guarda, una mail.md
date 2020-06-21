@@ -33,7 +33,7 @@ Ma in breve:
 
 1. Apple fa soldi con il 30%? Certamente. Non è una no profit, punta come altri al massimo ricavo (e a giudicare da come viene costantemente maltrattata dagli analisti finanziari, non lo fa neppure abbastanza).
 2. Gli sviluppatori patiscono la fame? A giudicare - anche qui - da statistiche pluriennali, sembrerebbe proprio di no.
-3. Questo significa che la situazione debba rimanere tale in eterno? Certamente no, ma come detto sopra, la contrattazione è la soluzione, non l’additare il **“brutteccattivo** di turno.
+3. Questo significa che la situazione debba rimanere tale in eterno? Certamente no, ma come detto sopra, la contrattazione è la soluzione, non l’additare il **“brutteccattivo"** di turno.
 
 Certo, *la ggente* fa molta più scena.
 
