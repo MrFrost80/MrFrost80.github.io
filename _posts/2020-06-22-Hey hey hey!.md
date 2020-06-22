@@ -18,4 +18,4 @@ P.S. Sempre dalla medesima recensione (non)citata (per salvaguardare il buon nom
 
 P.S. Ulteriore dettaglio, casomai fosse sfuggito, che contribuisce a rendere *poco credibile* (Vincitore del premio “Eufemismo dell’Anno 2020” per distacco) la narrazione degli “alfieri indie contro la multinazionale cattiva e avida”: dietro Hey.com c’è Basecamp. [Questo](https://basecamp.com).
 Quanto ai termini d’uso dello Store mi pare difficile credere fossero loro ignoti...
-![basecamp](/_img/Basecamp.jpeg)
+![basecamp](/Basecamp.jpeg)
