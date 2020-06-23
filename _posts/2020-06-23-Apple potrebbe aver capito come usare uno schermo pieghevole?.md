@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple potrebbe aver capito come usare un schermo pieghevole?
+title: Apple potrebbe aver capito come usare uno schermo pieghevole?
 date: 2020-06-23 10:30
 ---
 
