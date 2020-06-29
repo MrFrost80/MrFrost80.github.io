@@ -41,3 +41,5 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+!/_posts/.2020-06-14-13-00-Come la Cina.md.icloud
+
