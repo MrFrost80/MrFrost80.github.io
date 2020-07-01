@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'La sottile arte del "te l'avevo detto"'
-date: '2020-06-08 18:00'
+title: La sottile arte del "te l'avevo detto"
+date: 2020-06-08 18:00
 ---
 
 > I mean, I liked Spotify for what it was: a great music streaming service. But now, I am not too sure. Recently, whenever I experience Spotify, I come away thinking, “Man, it has really become like radio.” This is not meant as a compliment. 
