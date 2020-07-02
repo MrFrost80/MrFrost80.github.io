@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il *cinqueggì*
+title: Il "cinqueggì"
 date: 2020-07-02 06:00
 ---
 
