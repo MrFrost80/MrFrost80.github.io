@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black or white
-date: 2020-07-07 15:00
+date: 2020-07-07 10:00
 ---
 
 Alla fine, era quasi inevitabile che accadesse: [un uomo di colore è stato arrestato erroneamente a Detroit in seguito ad un’identificazione tramite riconoscimento facciale automatico.](https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence)
