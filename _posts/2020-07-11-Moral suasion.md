@@ -6,7 +6,7 @@ date: 2020-07-11 11:45
 
 Gruber [sfrutta](https://daringfireball.net/2020/07/app_store_moment_of_clarity) la notizia che Gmail supporta (dopo *soli* cinque anni, mai un *finalmente* fu così giustificato) lo split screen su iPad per esprimere un concetto piuttosto condivisibile:
 
-## Apple dovrebbe **esigere** dagli sviluppatori il supporto alle funzionalità di base del sistema operativo nel più breve tempo possibile, per offrire agli utenti applicazioni migliori.
+### Apple dovrebbe **esigere** dagli sviluppatori il supporto alle funzionalità di base del sistema operativo nel più breve tempo possibile, per offrire agli utenti applicazioni migliori.
 
 Come si può non essere d’accordo? Temo, però, che il nostro sovrastimi nettamente i margini d’azione di Apple.
 Per sua stessa ammissione, una buona fetta di utenti sembra *bellamente fregarsene* degli standard o del livello di raffinatezza e pulizia d’esecuzione delle app che usano.
