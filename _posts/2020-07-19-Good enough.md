@@ -4,7 +4,7 @@ title: Good enough
 date: 2020-07-19 15:30
 ---
 
-Shaun McGill (che nel frattempo ha cambiato [il nome del proprio blog](https://mcgst.com/2020/07/16/the-airpods-pro-won/) ci è cascato di nuovo. [^1]
+Shaun McGill (che nel frattempo ha cambiato [il nome del proprio blog](https://mcgst.com/2020/07/16/the-airpods-pro-won/) ) ci è cascato di nuovo. [^1]
 
 Dopo aver effettuato una lunga comparativa tra le AirPods Pro e le Jaybird Vista, aveva decretato la vittoria (netta) di queste ultime, soprattutto dal punto di vista della qualità audio.
 
