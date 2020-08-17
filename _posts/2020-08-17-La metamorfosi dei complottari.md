@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La preponderanza dei complottari
+title:  La metamorfosi dei complottari
 date: 2020-08-17 15:00
 ---
 
