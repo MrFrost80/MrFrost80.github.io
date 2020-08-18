@@ -22,7 +22,7 @@ Nei primi 10 mesi, i ricavi si sono attestati intorno al milione abbondante di d
 
 ### Fatto #3
 
-Al momento, *praticamente ogni videogame degno di nota **sguazza** nei cosiddetti *micropagamenti**. Da Fortnite, a League Of Legends (quiz estemporaneo: indovinate chi è il proprietario al 100% di quest’ultimo? *Bravi...*), al miliardo di giochi “match three” che *infestano* gli stores per dispositivi mobili.
+Al momento, *praticamente ogni videogame degno di nota **sguazza** nei cosiddetti **micropagamenti***. Da Fortnite, a League Of Legends (quiz estemporaneo: indovinate chi è il proprietario al 100% di quest’ultimo? *Bravi...*), al miliardo di giochi “match three” che *infestano* gli stores per dispositivi mobili.
 Anche *vecchie glorie* come Counter Strike:GO hanno ricevuto nuova linfa dalle microtransazioni. Fortnite non è, attualmente, una “perla rara” sotto nessun punto di vista, ma solo un eccellente esempio di realizzazione di un concetto piuttosto banale[^2]
 
 ### Fatto #4
