@@ -16,3 +16,11 @@ Sulla seconda pista, nel frattempo, [Facebook ci rende noto quanto sia *bruttecc
 Smettetela di ridere, altrimenti vi viene il singhiozzo.
 
 Stay Tuned, Mr.Frost
+
+#### Estensione delle 20:45
+
+Tanto per tentare di aggiungere un po di chiarezza circa la portata (e la gravità, al di là delle battute) del fenomeno, Facebook **non ha minimamente il controllo del proprio sistema**:
+
+> Yesterday Mark Zuckerberg said Facebook is taking down  posts that celebrate the Kenosha shooter. Based on the flood in my inbox, it's clear that company is not catching it all. Not even close. FB can't handle moderation at scale even when its CEO has made it a priority.
+> 
+> [Ryan Mac (Buzzfeed) su Twitter](https://twitter.com/RMac18/status/1299811659666477056)
