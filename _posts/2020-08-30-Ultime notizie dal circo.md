@@ -9,7 +9,7 @@ Epic piange miseria e dice che Apple è - indovinate un po’? - *brutteccattiva
 
 Il tutto, tra l’altro, dopo aver scritto questo qualche giorno fa:
 
-![È una mail vera, giuro.](Mail_Fortnite.jpeg)
+![È una mail vera, giuro.](Mail_Fortnite.jpg)
 
 Sulla seconda pista, nel frattempo, [Facebook ci rende noto quanto sia *brutteccattiva* Apple, che impedisce ai paladini della trasparenza di capitan Zuckerberg di essere chiari quanto vorrebbero.](https://www.inputmag.com/tech/facebook-says-apple-nixed-explanation-of-app-store-fees-to-users)
 
