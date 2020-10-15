@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quelli bravi" tra le Big Tech
+title: Quelli bravi tra le Big Tech
 date: 2020-10-15 13:00
 ---
 
