@@ -4,7 +4,7 @@ title: Quelli bravi tra le Big Tech
 date: 2020-10-15 13:00
 ---
 
-[Jason Snell](https://sixcolors.com/link/2020/10/spotify-spikes-songshift/) - tra gli altri - fa notare come uno degli alfieri della “giustizia webbe”,Spotify, abbia simpaticamente intimato agli sviluppatori di SongShift (un’app che ~~consente~~ consentiva di trasferire le proprie playlist tra differenti servizi di streaming) di rimuovere la possibilità di esportare quelle create in Spotify.
+[Jason Snell](https://sixcolors.com/link/2020/10/spotify-spikes-songshift/) - tra gli altri - fa notare come uno degli alfieri della “giustizia webbe”, Spotify,  abbia simpaticamente intimato agli sviluppatori di SongShift (un’app che ~~consente~~ consentiva di trasferire le proprie playlist tra differenti servizi di streaming) di rimuovere la possibilità di esportare quelle create in Spotify.
 
 [Devil’s in the details](https://songshift.com/blog/spotify_transfers), come sappiamo bene: il divieto riguarda il trasferimento **da** Spotify, non **verso** esso.
 
