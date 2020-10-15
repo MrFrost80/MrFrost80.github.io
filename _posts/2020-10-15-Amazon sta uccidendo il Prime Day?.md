@@ -1,6 +1,8 @@
+---
 layout: post
 title: Amazon sta uccidendo il Prime Day?
 date: 2020-10-15 12:00
+---
 
 Ieri si è conclusa la due giorni di “recupero” del Prime Day 2020, posticipato per non impattare logisticamente sulla distribuzione di beni considerati “prioritari” da Amazon durante fasi più acute della pandemia.
 
