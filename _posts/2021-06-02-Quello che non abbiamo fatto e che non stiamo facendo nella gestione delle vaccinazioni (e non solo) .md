@@ -1,5 +1,5 @@
 --
-layout:post
+layout: post
 title: Quello che non abbiamo fatto
 date: 2021-06-02 10:30
 --
