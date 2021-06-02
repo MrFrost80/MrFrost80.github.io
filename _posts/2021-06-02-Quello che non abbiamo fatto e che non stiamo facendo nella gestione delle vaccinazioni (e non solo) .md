@@ -1,8 +1,10 @@
 --
 layout:post
-title: Quello che non abbiamo fatto e che non stiamo facendo nella gestione delle vaccinazioni (e non solo)
-data: 2021-06-02 10:30
+title: Quello che non abbiamo fatto
+date: 2021-06-02 10:30
 --
+
+Sottotitolo: ...e che non stiamo facendo nella gestione delle vaccinazioni - e non solo.
 
 Il sistema pare ormai piuttosto rodato (o forse ci piace credere che lo sia, visto che ogni “inceppamento” ci allontanerebbe da un ritorno ad una situazione in cui le limitazioni siano più sopportabili), ma c’è una cosa che ancora (di nuovo) stiamo ignorando: la parte “informativa/informatica” del nostro Servizio Sanitario Nazionale.
 
