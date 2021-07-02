@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Quote Of The Day
 date: 2021-07-02 16:15
 ---
