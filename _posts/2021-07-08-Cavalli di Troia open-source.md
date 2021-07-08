@@ -4,7 +4,7 @@ title: Cavalli di Troia open-source
 date: 2021-07-08 08:00
 ---
 
-Leggo [sul blog di @lux](https://macintelligence.org/posts/La-fortuna-aiuta-gli-Audacity.html)che Audacity, dopo l’acquisizione da parte di Muse Group, ha inserito nei propri termini di utilizzo molte richieste “invasive” di raccolta dei dati utente.
+Leggo [sul blog di @lux](https://macintelligence.org/posts/La-fortuna-aiuta-gli-Audacity.html) che Audacity, dopo l’acquisizione da parte di Muse Group, ha inserito nei propri termini di utilizzo molte richieste “invasive” di raccolta dei dati utente.
 
 Audacity è sempre stato una colonna del panorama open-source, ed era un ottimo programma (che spesso ho usato anche io), in grado di mischiare abilmente un’interfaccia chiara anche al neofita assoluto (presente!) con una serie di funzionalità ed una potenza da programma professionale.
 
