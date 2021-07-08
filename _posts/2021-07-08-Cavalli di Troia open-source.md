@@ -12,7 +12,7 @@ Spiace vederlo “ridotto” a rete a strascico per gente che scrive nei termini
 
 > All your personal data is stored on our servers in the European Economic Area (EEA). **However, we are occasionally required to share your personal data with our main office in Russia and our external counsel in the USA.**
 
-Condivido l’auspicio di Lucio circa il “moto d’orgoglio” della comunica open-source, che ha i mezzi e le motivazioni (più di chiunque altro) per “riprendersi” l’Audacity dei tempi che furono.
+Condivido l’auspicio di Lucio circa il “moto d’orgoglio” della comunità open-source, che ha i mezzi e le motivazioni (più di chiunque altro) per “riprendersi” l’Audacity dei tempi che furono.
 
 Speriamo funzioni; nel frattempo vivremo la spiacevole esperienza del doverci “guardare le spalle”, informaticamente parlando, ogni volta che lo useremo.
 
