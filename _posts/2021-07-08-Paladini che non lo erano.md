@@ -23,8 +23,8 @@ Attenzione a scegliere i propri cavalieri su bianco destriero: potrebbero rivela
 
 Stay Tuned, Mr.Frost 
 
-[1^]: Anche qui, banale tattica di marketing: quando ci si deve “costruire” una base d’utenza, presentarsi come “economico, ma di qualità” funziona **sempre**. Bizzarro come (più di) qualcuno abbia potuto (voluto?) scambiarlo per chissà quale “filosofia”.
+[^1]: Anche qui, banale tattica di marketing: quando ci si deve “costruire” una base d’utenza, presentarsi come “economico, ma di qualità” funziona **sempre**. Bizzarro come (più di) qualcuno abbia potuto (voluto?) scambiarlo per chissà quale “filosofia”.
 
-[2^]: Tra di esse, spiccava un **meravigliso** “Facebook service”, **ininstallabile** ed altre app, alcune di esse invece rimovibili. Per un terminale che (l’8Pro, nominativo evidentemente destinato a chi sostiene che il suffisso, quando usato da Apple, sia solo ridicolo marketing) costava 1000$, niente male.
+[^2]: Tra di esse, spiccava un **meravigliso** “Facebook service”, **ininstallabile** ed altre app, alcune di esse invece rimovibili. Per un terminale che (l’8Pro, nominativo evidentemente destinato a chi sostiene che il suffisso, quando usato da Apple, sia solo ridicolo marketing) costava 1000$, niente male.
 
-[3^]: Personalmente, non uso Chrome, considero Whatsapp un male (spero sempre meno) necessario e Twitter un simpatico passatempo. Ma **non sono un utente standard**, quindi soffrirei decisamente meno di eventuali rallentamenti sulle tre app in questione.
+[^3]: Personalmente, non uso Chrome, considero Whatsapp un male (spero sempre meno) necessario e Twitter un simpatico passatempo. Ma **non sono un utente standard**, quindi soffrirei decisamente meno di eventuali rallentamenti sulle tre app in questione.
